@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab54030c-e800-4d1b-9cbb-281c6d0484d8" name="Default Changelist" comment="Replaced with new .gitignore contents.">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EJ_07_Obsolete_Objects_01.iml" afterDir="false" />
+    <list default="true" id="ab54030c-e800-4d1b-9cbb-281c6d0484d8" name="Default Changelist" comment="Added Idea configs.">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588596319644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Idea configs.">
+      <created>1588596470396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588596470396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +92,17 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Replaced with new .gitignore contents." />
-    <option name="LAST_COMMIT_MESSAGE" value="Replaced with new .gitignore contents." />
+    <MESSAGE value="Added Idea configs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Idea configs." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588596735523">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="428" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1588596735523" />
+    <state x="290" y="125" key="Vcs.Push.Dialog.v2" timestamp="1588596474830">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="290" y="125" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1588596474830" />
   </component>
 </project>
